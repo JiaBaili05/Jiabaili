@@ -47,7 +47,7 @@ call :execute_commands 2022 WX4NM-KYWYW-QJJR4-XV3QB-6VM33
 goto dism_2022
 
 :server2025
-call :execute_commands 2025 2KNJJ-33Y9H-2GXGX-KMQWH-G6H67
+call :execute_commands 2025 D764K-2NDRG-47T6Q-P8T8W-YP6DF
 goto dism_2025
 
 :execute_commands
@@ -105,7 +105,7 @@ goto complete
 echo.
 echo ========================================
 echo 正在执行Server 2025版本转换...
-DISM /Online /Set-Edition:ServerDatacenter /ProductKey:2KNJJ-33Y9H-2GXGX-KMQWH-G6H67 /AcceptEula
+DISM /Online /Set-Edition:ServerDatacenter /ProductKey:D764K-2NDRG-47T6Q-P8T8W-YP6DF /AcceptEula
 goto complete
 
 :formal_version
