@@ -3,6 +3,8 @@
 
 1.在你的Windows Server中双击运行这个Server激活助手
 
+支持Windows普通版本/Office/Server 2016/2019/2022/2025
+
 注：脚本已经自动提权至管理员
 
 2.选择你当前版本,且自动激活
